@@ -22,10 +22,13 @@ host_os_tags:
   - "osx-10.10"
   - "ubuntu"
 project_type_tags:
-  - android
+- android
+- xamarin
+- cordova
+- ionic
+- react-native
 type_tags:
-  - "testfairy"
-  - "deploy"
+- deploy
 is_requires_admin_user: false
 is_always_run: false
 is_skippable: false
