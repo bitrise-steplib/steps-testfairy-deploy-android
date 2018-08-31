@@ -36,6 +36,7 @@ inputs:
         API key from TestFairy.
         You can find your API key under the settings menu.
       is_required: true
+      is_sensitive: true
   - apk_path: "$BITRISE_APK_PATH"
     opts:
       title: "APK path"
