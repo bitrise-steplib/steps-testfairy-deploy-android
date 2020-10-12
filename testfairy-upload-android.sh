@@ -27,7 +27,7 @@ COMMENT="$comment"
 # locations of various tools
 CURL=curl
 
-SERVER_ENDPOINT=http://app.testfairy.com
+SERVER_ENDPOINT=https://upload.testfairy.com
 
 usage() {
 	echo "Usage: testfairy-upload-android.sh APK_FILENAME"
